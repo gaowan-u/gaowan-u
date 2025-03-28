@@ -1,25 +1,14 @@
-- 👋 Hi, I’m @gaowan-u  
-- 👀 I’m interested in **full-stack development** and **game modding** [[2]]  
-- 🌱 I’m currently learning **Golang** and **machine learning frameworks** [[2]][[7]]  
-- 💞️ I’m looking to collaborate on **open-source projects** or **survival game mods** [[2]][[8]]  
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/gaowan-u)** (可添加3个链接，建议保留1-2个备用) [[3]][[6]]  
-- 😄 Pronouns: ...  
-- ⚡ Fun fact: **在《生存战争2》中用红石电路复刻过自动化工厂** [[4]][[8]]  
-
-<!--- 生存游戏三巨头：  
- Minecraft（原版生存）  
- **《饥荒》联机版**（替换星露谷物语）  
- **《森林》**（新增生存建造元素） [[4]][[8]] --->
-
-<!--- 技术栈扩展：  
-```python
-# 主力语言
-print("Python · Java · C++") 
-
-# 开发工具
-VSCode(), Git(), Docker() 
-
-# 游戏开发
-Minecraft_Modding(), Unity_2D() 
-``` [[1]][[7]]  
---->
+- 👋 你好，我是@gaowan-u，一位热爱创造的二进制诗人
+- 💻 技术栈
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+- 🎮 生存游戏三叉戟
+  - 红石科技大师（Minecraft）
+  - 方舟驯龙高手（生存战争2）
+  - 七日杀夜跑冠军（Rust）
+- 🌱 正在修炼：全栈开发の奥义（Vue/Spring Cloud）
+- 🛠️ 开源蓝图：想打造一个跨平台生存游戏辅助框架
+- 📫 找到我：[技术博客](https://example.com) | [MC模组仓库](https://example.com)
+- ⚡ 冷知识：曾用命令方块还原《羊了个羊》第一关
+- 🎨 创作哲学：代码应当像下界合金一样——高效而优雅
